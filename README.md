@@ -1,7 +1,7 @@
 # Musica com IA: Músicas realistas usando o suno.ai🎙️
 
 ## 📒 Descrição
-
+Testar a utilidade da IA como ferrameta para compositores e músicos
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Suno.ai](https://suno.com/create)** para Criação da Música;
