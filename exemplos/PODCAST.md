@@ -1,20 +1,19 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Musica com IA: Músicas realistas usando o suno.ai🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- IA Generativa **[Suno.ai](https://suno.com/create)** para Criação da Música;
+- DAW **[FL-Studio](https://www.image-line.com)** para Edição de Áudio e Masterização;
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+O prompt utilizado no Suno.ai foi uma letra de música gospel feita por um amigo, e na letra foram utilizadas tags de estrutura de música como [intro], [pré-refrão], [refrão], [verso] e [outro]. No genero musical foram colocadas as tags [Nu-Metal] e [Gospel]. Em seguida levei os resultados para minha DAW onde usei da minha experiência como produtor musical para dar os toques finais e deixar a música pronta.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+O resultado foram duas músicas de metal gospel muito realistas, com uma estrutura bem definida e técnicas avançadas de composição musical aliada a letra.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA A MÚSICA AQUI](https://soundcloud.com/icecobain/confia-no-pai-ai-music)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto destacou a possibilidade das IAs Generativas na criação de músicas, pois, pode dar ao compositor uma infinidade de ideias nos mais variados gêneros musicais.
